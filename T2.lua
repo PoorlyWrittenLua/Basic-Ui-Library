@@ -1,3 +1,5 @@
+-- holy shit guys he did it he found a table with instance.new spam 🤯
+-- pro hacker omg omg omg
 return {
     ['ScreenGui'] = Instance.new("ScreenGui"),
     
